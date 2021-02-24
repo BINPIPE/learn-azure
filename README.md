@@ -16,9 +16,7 @@ Azure Learning Resources
 
 Traditionally, the only option available to companies was to build and manage the physical hardware needed for computing, including servers, disk storage and Ethernet switches. But today, companies can use a public cloud computing platform like Azure, which purchases and maintains all the computing hardware. This means companies can effectively “rent” hardware resources as needed.
 
-You can pick and choose among Azure’s services to get the support needed for your business operations—namely building, deploying, and managing applications.  And because you’re renting the computing resources, you don’t have the costs and inefficiencies (like a dedicated IT department) associated with the physical hardware that naturally goes along with those activities.
-
-Many companies today are choosing to use some combination of cloud computing and on-premise datacenters. Some are even utilizing multiple cloud computing services depending on their needs and requirements. ([This article offers a great overview of the future of multi-cloud computing.](https://stackify.com/future-multi-cloud-computing/)) So if you’re concerned about making a dramatic change in your computing environment, or feel like you’re committing to a single service provider for life, don’t worry. Instead, you’ll want to focus on determining the viability of cloud computing in relation to your company’s needs. Often, designing some combination of the cloud with an existing on-premises setup is the best way to get the ball rolling.
+You can pick and choose among Azure’s services to get the support needed for your business operations—namely building, deploying, and managing applications.  And because you’re renting the computing resources, you don’t have the costs and inefficiencies (like a dedicated IT department) associated with the physical hardware that naturally goes along with those activities. Many companies today are choosing to use some combination of cloud computing and on-premise datacenters. Some are even utilizing multiple cloud computing services depending on their needs and requirements.
 
 ### Microsoft Azure Business Cases & Features
 
