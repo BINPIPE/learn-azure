@@ -8,7 +8,7 @@
 
 Azure Learning Resources
 --- |
-<mark>:ledger:[Lesson Plans & Videos](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)</mark>
+<mark>:ledger:[Azure Overview](https://github.com/BINPIPE/learn-azure/blob/master/Azure-Overview.pdf)</mark>
 
 <pre>
 <a href="https://www.binpipe.org">BINPIPE</a> aims to simplify learning for those who are looking to make a foothold in the industry. 
