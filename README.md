@@ -18,6 +18,52 @@ Traditionally, the only option available to companies was to build and manage th
 
 You can pick and choose among Azure’s services to get the support needed for your business operations—namely building, deploying, and managing applications.  And because you’re renting the computing resources, you don’t have the costs and inefficiencies (like a dedicated IT department) associated with the physical hardware that naturally goes along with those activities. Many companies today are choosing to use some combination of cloud computing and on-premise datacenters. Some are even utilizing multiple cloud computing services depending on their needs and requirements.
 
+
+### Azure key Concepts
+
+Below are some key concepts/definitions around Azure. 
+
+**Regions**
+
+Azure is a global cloud platform which is available across various regions around the world. When you request a service, application, or VM in Azure, you are first asked to specify a region. The selected region represents datacenter where your application runs.
+
+**Datacenter**
+
+In Azure, you can deploy your applications into a variety of data centers around the globe. So, it is advisable to select a region which is closer to most of your customers. It helps you to reduce latency in network requests.
+
+**Azure portal**
+
+The Azure portal is a web-based application which can be used to create, manage and remove Azure resource and services. It is located at  [https://portal.azure.com](https://portal.azure.com/).
+
+**Resources**
+
+Azure resource is an individual computer, networking data or app hosting services which charged individually. Some common resources are virtual machines( VM), storage account, or SQL databases.
+
+**Resource groups**
+
+An Azure resource group is a container which holds related resource for an Azure solution. It may include every resource or just resource which you wants to manage.
+
+**Resource Manager templates**
+
+It is a JSON which defines one or more resource to deploy to a resource group. It also establishes dependencies between deployed resources.
+
+**Automation:**
+
+Azure allows you to automate the process of creating, managing and deleting resource by using PowerShell or the Azure command-line Interface(CLI).
+
+**Azure PowerShell**
+
+PowerShell is a set of modules that offer cmdlets to manage Azure. In most cases, you are allowed to use, the cmdlets command for the same tasks which you are performing in the Azure portal.
+
+**Azure command-line interface(CLI)**
+
+The Azure CLI is a tool that you can use to create, manage, and remove Azure resources from the command line.
+
+**REST APIs**
+
+Azure is built on a set of REST APIs help you perform the same operation that you do in Azure portal Ul. It allows your Azure resources and apps to be manipulated via any third party software application.
+
+
 ### Microsoft Azure Business Cases & Features
 
 Businesses of all sizes find value in using the public cloud, and many of them are choosing Azure. In fact, Azure is used by [85% of Fortune 500 companies.](https://www.channelpartnersonline.com/2017/04/11/microsoft-azure-s-evangelist-120000-new-subscribers-monthly/)
