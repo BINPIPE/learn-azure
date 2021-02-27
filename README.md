@@ -9,6 +9,8 @@
 Azure Learning Resources
 --- |
 <mark>:ledger:[Azure Overview](https://github.com/BINPIPE/learn-azure/blob/master/Azure-Overview.pdf)</mark>
+<mark>:ledger:[Create a free Azure account](https://github.com/BINPIPE/learn-azure/blob/master/Azure-Overview.pdf)</mark>
+<mark>:ledger:[How Clouds Work?](https://github.com/BINPIPE/learn-azure/blob/master/Azure-Overview.pdf)</mark>
 
 ### Microsoft Azure
 
