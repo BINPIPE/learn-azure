@@ -11,7 +11,7 @@ Azure Learning Resources
 <mark>:ledger:[Azure Overview](https://github.com/BINPIPE/learn-azure/blob/master/Azure-Overview.pdf)</mark>
 <mark>:ledger:[Create a free Azure account](https://youtu.be/7t5qYa5OMOc)</mark>
 <mark>:ledger:[How Clouds Work?](https://youtu.be/V_P3ReVGRMw)</mark>
-
+<mark>:ledger:[Azure Autoscaling](https://github.com/BINPIPE/learn-azure/blob/master/autoscaling.md)</mark>
 ### Microsoft Azure
 
 ***Azure is a cloud computing platform that can provide everything a business needs to run all or part of its computing operations virtually—including servers, storage, databases, networking, analytics and more*.**
